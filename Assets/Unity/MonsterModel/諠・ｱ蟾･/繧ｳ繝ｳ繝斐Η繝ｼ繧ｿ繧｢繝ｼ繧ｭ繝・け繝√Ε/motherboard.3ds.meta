@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 23d6179e84f0cc547bf5ad5c8ddd042d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cap 1
+    100002: Cap 1.97619052
+    100004: Cap 1.97619053
+    100006: Cap 1.97619054
+    100008: Cap 1.97619055
+    100010: Cap 1.97619056
+    100012: Cap 1.97619057
+    100014: Cap 1.97619058
+    100016: Cap 1.97619059
+    100018: Cap 1.97619060
+    100020: Cap 1.97619061
+    100022: Cap 1.97619062
+    100024: Cap 1.97619063
+    100026: Cap 1.97619064
+    100028: Cap 1.97619065
+    100030: Cap 1.97619066
+    100032: Cap 2
+    100034: Cap 2.0001
+    100036: Cap 2.0002
+    100038: Cap 2.0003
+    100040: Cap 2.0004
+    100042: Cap 2.0005
+    100044: Cap 2.0006
+    100046: Cap 2.0007
+    100048: Cap 2.0008
+    100050: Cap 2.0009
+    100052: Cap 2.0010
+    100054: Cap 2.0011
+    100056: Cap 2.0012
+    100058: Cap 2.0013
+    100060: Cap 2.0014
+    100062: Cap 2.0015
+    100064: Extru
+    100066: Extru.0001
+    100068: Extru.0002
+    100070: Extrude Ob
+    100072: //RootNode
+    100074: Path 1
+    100076: Path 10
+    100078: Path 11
+    100080: Path 12
+    100082: Path 13
+    100084: Path 14
+    100086: Path 15
+    100088: Path 2
+    100090: Path 3
+    100092: Path 4
+    100094: Path 5
+    100096: Path 6
+    100098: Path 7
+    100100: Path 8
+    100102: Path 9
+    400000: Cap 1
+    400002: Cap 1.97619052
+    400004: Cap 1.97619053
+    400006: Cap 1.97619054
+    400008: Cap 1.97619055
+    400010: Cap 1.97619056
+    400012: Cap 1.97619057
+    400014: Cap 1.97619058
+    400016: Cap 1.97619059
+    400018: Cap 1.97619060
+    400020: Cap 1.97619061
+    400022: Cap 1.97619062
+    400024: Cap 1.97619063
+    400026: Cap 1.97619064
+    400028: Cap 1.97619065
+    400030: Cap 1.97619066
+    400032: Cap 2
+    400034: Cap 2.0001
+    400036: Cap 2.0002
+    400038: Cap 2.0003
+    400040: Cap 2.0004
+    400042: Cap 2.0005
+    400044: Cap 2.0006
+    400046: Cap 2.0007
+    400048: Cap 2.0008
+    400050: Cap 2.0009
+    400052: Cap 2.0010
+    400054: Cap 2.0011
+    400056: Cap 2.0012
+    400058: Cap 2.0013
+    400060: Cap 2.0014
+    400062: Cap 2.0015
+    400064: Extru
+    400066: Extru.0001
+    400068: Extru.0002
+    400070: Extrude Ob
+    400072: //RootNode
+    400074: Path 1
+    400076: Path 10
+    400078: Path 11
+    400080: Path 12
+    400082: Path 13
+    400084: Path 14
+    400086: Path 15
+    400088: Path 2
+    400090: Path 3
+    400092: Path 4
+    400094: Path 5
+    400096: Path 6
+    400098: Path 7
+    400100: Path 8
+    400102: Path 9
+    2100000: New.1
+    2300000: Cap 1
+    2300002: Cap 1.97619052
+    2300004: Cap 1.97619053
+    2300006: Cap 1.97619054
+    2300008: Cap 1.97619055
+    2300010: Cap 1.97619056
+    2300012: Cap 1.97619057
+    2300014: Cap 1.97619058
+    2300016: Cap 1.97619059
+    2300018: Cap 1.97619060
+    2300020: Cap 1.97619061
+    2300022: Cap 1.97619062
+    2300024: Cap 1.97619063
+    2300026: Cap 1.97619064
+    2300028: Cap 1.97619065
+    2300030: Cap 1.97619066
+    2300032: Cap 2
+    2300034: Cap 2.0001
+    2300036: Cap 2.0002
+    2300038: Cap 2.0003
+    2300040: Cap 2.0004
+    2300042: Cap 2.0005
+    2300044: Cap 2.0006
+    2300046: Cap 2.0007
+    2300048: Cap 2.0008
+    2300050: Cap 2.0009
+    2300052: Cap 2.0010
+    2300054: Cap 2.0011
+    2300056: Cap 2.0012
+    2300058: Cap 2.0013
+    2300060: Cap 2.0014
+    2300062: Cap 2.0015
+    2300064: Extru
+    2300066: Path 1
+    2300068: Path 10
+    2300070: Path 11
+    2300072: Path 12
+    2300074: Path 13
+    2300076: Path 14
+    2300078: Path 15
+    2300080: Path 2
+    2300082: Path 3
+    2300084: Path 4
+    2300086: Path 5
+    2300088: Path 6
+    2300090: Path 7
+    2300092: Path 8
+    2300094: Path 9
+    3300000: Cap 1
+    3300002: Cap 1.97619052
+    3300004: Cap 1.97619053
+    3300006: Cap 1.97619054
+    3300008: Cap 1.97619055
+    3300010: Cap 1.97619056
+    3300012: Cap 1.97619057
+    3300014: Cap 1.97619058
+    3300016: Cap 1.97619059
+    3300018: Cap 1.97619060
+    3300020: Cap 1.97619061
+    3300022: Cap 1.97619062
+    3300024: Cap 1.97619063
+    3300026: Cap 1.97619064
+    3300028: Cap 1.97619065
+    3300030: Cap 1.97619066
+    3300032: Cap 2
+    3300034: Cap 2.0001
+    3300036: Cap 2.0002
+    3300038: Cap 2.0003
+    3300040: Cap 2.0004
+    3300042: Cap 2.0005
+    3300044: Cap 2.0006
+    3300046: Cap 2.0007
+    3300048: Cap 2.0008
+    3300050: Cap 2.0009
+    3300052: Cap 2.0010
+    3300054: Cap 2.0011
+    3300056: Cap 2.0012
+    3300058: Cap 2.0013
+    3300060: Cap 2.0014
+    3300062: Cap 2.0015
+    3300064: Extru
+    3300066: Path 1
+    3300068: Path 10
+    3300070: Path 11
+    3300072: Path 12
+    3300074: Path 13
+    3300076: Path 14
+    3300078: Path 15
+    3300080: Path 2
+    3300082: Path 3
+    3300084: Path 4
+    3300086: Path 5
+    3300088: Path 6
+    3300090: Path 7
+    3300092: Path 8
+    3300094: Path 9
+    4300000: Extru
+    4300002: Path 13
+    4300004: Cap 2.0004
+    4300006: Cap 1.97619063
+    4300008: Path 5
+    4300010: Cap 2.0015
+    4300012: Cap 1.97619052
+    4300014: Path 4
+    4300016: Cap 2.0002
+    4300018: Cap 1.97619060
+    4300020: Path 3
+    4300022: Cap 2.0012
+    4300024: Cap 1
+    4300026: Path 2
+    4300028: Cap 2
+    4300030: Cap 1.97619062
+    4300032: Path 1
+    4300034: Cap 2.0009
+    4300036: Cap 1.97619065
+    4300038: Path 10
+    4300040: Cap 2.0008
+    4300042: Cap 1.97619056
+    4300044: Path 9
+    4300046: Cap 2.0011
+    4300048: Cap 1.97619057
+    4300050: Path 8
+    4300052: Cap 2.0014
+    4300054: Cap 1.97619058
+    4300056: Path 7
+    4300058: Cap 2.0013
+    4300060: Cap 1.97619066
+    4300062: Path 6
+    4300064: Cap 2.0001
+    4300066: Cap 1.97619053
+    4300068: Path 11
+    4300070: Cap 2.0003
+    4300072: Cap 1.97619054
+    4300074: Path 12
+    4300076: Cap 2.0005
+    4300078: Cap 1.97619061
+    4300080: Path 15
+    4300082: Cap 2.0006
+    4300084: Cap 1.97619064
+    4300086: Path 14
+    4300088: Cap 2.0007
+    4300090: Cap 1.97619059
+    4300092: Cap 2.0010
+    4300094: Cap 1.97619055
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: New.1
+    second: {fileID: 2100000, guid: e0b6206325ef24d4095148d8195e4691, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

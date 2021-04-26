@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: ac7f8bf28f717d646b06101298c85447
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: board
+    100002: Camera
+    100004: Capaciter3
+    100006: Capacitor1
+    100008: Capacitor1.001
+    100010: Capacitor2
+    100012: Capacitor2.001
+    100014: Capacitor2.002
+    100016: CHIP
+    100018: CHIP.001
+    100020: //RootNode
+    100022: connector
+    100024: connector.001
+    100026: crystal
+    100028: Cube
+    100030: Cube.001
+    100032: Cube.005
+    100034: Cylinder
+    100036: Cylinder.001
+    100038: Cylinder.002
+    100040: Cylinder.003
+    100042: diode
+    100044: diode.001
+    100046: diode.002
+    100048: DIP
+    100050: DIP.001
+    100052: DIP.002
+    100054: Empty
+    100056: Empty.001
+    100058: jumpers
+    100060: jumpers.001
+    100062: jumpers.002
+    100064: jumpers.003
+    100066: Plane
+    100068: resistor1
+    100070: resistor1.001
+    100072: resistor1.002
+    100074: resistor1.003
+    100076: resistor1.004
+    100078: resistor1.005
+    100080: resistor2
+    100082: resistor2.001
+    100084: rheostat
+    100086: rheostat2
+    100088: rheostat3
+    100090: rheostat4
+    100092: Ribbon Cable
+    100094: Ribbon Cable.001
+    100096: screw
+    100098: screw.001
+    100100: screw.002
+    100102: screw.003
+    100104: Text
+    100106: transformer
+    100108: transistor
+    400000: board
+    400002: Camera
+    400004: Capaciter3
+    400006: Capacitor1
+    400008: Capacitor1.001
+    400010: Capacitor2
+    400012: Capacitor2.001
+    400014: Capacitor2.002
+    400016: CHIP
+    400018: CHIP.001
+    400020: //RootNode
+    400022: connector
+    400024: connector.001
+    400026: crystal
+    400028: Cube
+    400030: Cube.001
+    400032: Cube.005
+    400034: Cylinder
+    400036: Cylinder.001
+    400038: Cylinder.002
+    400040: Cylinder.003
+    400042: diode
+    400044: diode.001
+    400046: diode.002
+    400048: DIP
+    400050: DIP.001
+    400052: DIP.002
+    400054: Empty
+    400056: Empty.001
+    400058: jumpers
+    400060: jumpers.001
+    400062: jumpers.002
+    400064: jumpers.003
+    400066: Plane
+    400068: resistor1
+    400070: resistor1.001
+    400072: resistor1.002
+    400074: resistor1.003
+    400076: resistor1.004
+    400078: resistor1.005
+    400080: resistor2
+    400082: resistor2.001
+    400084: rheostat
+    400086: rheostat2
+    400088: rheostat3
+    400090: rheostat4
+    400092: Ribbon Cable
+    400094: Ribbon Cable.001
+    400096: screw
+    400098: screw.001
+    400100: screw.002
+    400102: screw.003
+    400104: Text
+    400106: transformer
+    400108: transistor
+    2000000: Camera
+    2100000: No Name
+    2100002: chrome bolt
+    2100004: plastic B
+    2100006: silver pins
+    2100008: resistor base
+    2100010: plastic G
+    2100012: plastic R
+    2100014: plastic O
+    2100016: plastic Y
+    2100018: plastic Bk
+    2100020: gold pins
+    2100022: plastic
+    2100024: Material.001
+    2100026: board
+    2100028: traces
+    2100030: copper
+    2300000: board
+    2300002: Capaciter3
+    2300004: Capacitor1
+    2300006: Capacitor1.001
+    2300008: Capacitor2
+    2300010: Capacitor2.001
+    2300012: Capacitor2.002
+    2300014: CHIP
+    2300016: CHIP.001
+    2300018: connector
+    2300020: connector.001
+    2300022: crystal
+    2300024: Cube
+    2300026: Cube.001
+    2300028: Cube.005
+    2300030: Cylinder
+    2300032: Cylinder.001
+    2300034: Cylinder.002
+    2300036: Cylinder.003
+    2300038: diode
+    2300040: diode.001
+    2300042: diode.002
+    2300044: DIP
+    2300046: DIP.001
+    2300048: DIP.002
+    2300050: jumpers
+    2300052: jumpers.001
+    2300054: jumpers.002
+    2300056: jumpers.003
+    2300058: Plane
+    2300060: resistor1
+    2300062: resistor1.001
+    2300064: resistor1.002
+    2300066: resistor1.003
+    2300068: resistor1.004
+    2300070: resistor1.005
+    2300072: resistor2
+    2300074: resistor2.001
+    2300076: rheostat
+    2300078: rheostat2
+    2300080: rheostat3
+    2300082: rheostat4
+    2300084: Ribbon Cable
+    2300086: Ribbon Cable.001
+    2300088: screw
+    2300090: screw.001
+    2300092: screw.002
+    2300094: screw.003
+    2300096: Text
+    2300098: transformer
+    2300100: transistor
+    3300000: board
+    3300002: Capaciter3
+    3300004: Capacitor1
+    3300006: Capacitor1.001
+    3300008: Capacitor2
+    3300010: Capacitor2.001
+    3300012: Capacitor2.002
+    3300014: CHIP
+    3300016: CHIP.001
+    3300018: connector
+    3300020: connector.001
+    3300022: crystal
+    3300024: Cube
+    3300026: Cube.001
+    3300028: Cube.005
+    3300030: Cylinder
+    3300032: Cylinder.001
+    3300034: Cylinder.002
+    3300036: Cylinder.003
+    3300038: diode
+    3300040: diode.001
+    3300042: diode.002
+    3300044: DIP
+    3300046: DIP.001
+    3300048: DIP.002
+    3300050: jumpers
+    3300052: jumpers.001
+    3300054: jumpers.002
+    3300056: jumpers.003
+    3300058: Plane
+    3300060: resistor1
+    3300062: resistor1.001
+    3300064: resistor1.002
+    3300066: resistor1.003
+    3300068: resistor1.004
+    3300070: resistor1.005
+    3300072: resistor2
+    3300074: resistor2.001
+    3300076: rheostat
+    3300078: rheostat2
+    3300080: rheostat3
+    3300082: rheostat4
+    3300084: Ribbon Cable
+    3300086: Ribbon Cable.001
+    3300088: screw
+    3300090: screw.001
+    3300092: screw.002
+    3300094: screw.003
+    3300096: Text
+    3300098: transformer
+    3300100: transistor
+    4300000: Text
+    4300002: screw.003
+    4300004: screw.002
+    4300006: screw.001
+    4300008: Capacitor2.002
+    4300010: resistor1.005
+    4300012: resistor1.004
+    4300014: resistor2.001
+    4300016: diode.002
+    4300018: diode.001
+    4300020: rheostat
+    4300022: rheostat4
+    4300024: rheostat3
+    4300026: rheostat2
+    4300028: Capacitor2.001
+    4300030: jumpers.003
+    4300032: jumpers.002
+    4300034: Capacitor1.001
+    4300036: DIP.002
+    4300038: jumpers.001
+    4300040: connector.001
+    4300042: Ribbon Cable.001
+    4300044: resistor1.003
+    4300046: resistor1.002
+    4300048: resistor1.001
+    4300050: DIP.001
+    4300052: CHIP.001
+    4300054: screw
+    4300056: Ribbon Cable
+    4300058: connector
+    4300060: Capaciter3
+    4300062: jumpers
+    4300064: CHIP
+    4300066: DIP
+    4300068: transistor
+    4300070: diode
+    4300072: crystal
+    4300074: transformer
+    4300076: Capacitor1
+    4300078: Capacitor2
+    4300080: resistor2
+    4300082: resistor1
+    4300084: board
+    4300086: Cylinder.003
+    4300088: Cylinder.002
+    4300090: Cube.005
+    4300092: Cube
+    4300094: Cylinder.001
+    4300096: Cylinder
+    4300098: Cube.001
+    4300100: Plane
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

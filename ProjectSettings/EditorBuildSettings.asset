@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Unity/Screen/Game/Game.unity
+    guid: 3714fc9011e5f214fa96952d0e6a2272
+  - enabled: 1
+    path: Assets/Unity/Screen/Battle/Battle.unity
+    guid: fb6cb767b37928c42bf8881c8ec9b8ec
+  - enabled: 1
+    path: Assets/Unity/Screen/Inventory/Inventory.unity
+    guid: c5a32eade1a62ca459f88bfe91155e97
+  - enabled: 1
+    path: Assets/Unity/Screen/Map/Map.unity
+    guid: a2a75d32f07fe8745a068db4b3df2b00
+  - enabled: 1
+    path: Assets/Unity/Screen/Menu/Menu.unity
+    guid: 2e033a08fc161f146bf18fed3c6f9c47
+  - enabled: 1
+    path: Assets/Unity/Screen/Result/Result.unity
+    guid: 5aa208be08f613241af431bc0961df44
+  - enabled: 1
+    path: Assets/Unity/Screen/Setting/Setting.unity
+    guid: e071c910d8432ce4ebc174b2019850ff
+  - enabled: 1
+    path: Assets/Unity/Screen/Splash/Splash.unity
+    guid: 9a302574db5a346b28ea7ec794c2cadd
+  - enabled: 1
+    path: Assets/Unity/Screen/Title/Title.unity
+    guid: aa5f2a2f87898bc4591cd698b72740b7
+  - enabled: 1
+    path: Assets/Unity/Screen/UserInfo/UserInfo.unity
+    guid: a4fae4f53d000844686f1afec5dd77a2
+  - enabled: 1
+    path: Assets/Unity/Screen/UserRegister/UserRegister.unity
+    guid: 9421c70e5b1444c72affa130ffd00b12
+  m_configObjects: {}
